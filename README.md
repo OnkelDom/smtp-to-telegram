@@ -4,6 +4,7 @@
 [![Docker Hub](https://img.shields.io/docker/pulls/kostyaesmukov/smtp_to_telegram.svg?style=flat-square)][Docker Hub]
 [![Go Report Card](https://goreportcard.com/badge/github.com/KostyaEsmukov/smtp_to_telegram?style=flat-square)][Go Report Card]
 [![License](https://img.shields.io/github/license/KostyaEsmukov/smtp_to_telegram.svg?style=flat-square)][License]
+![release](https://github.com/OnkelDom/smtp-to-telegram/workflows/release/badge.svg)
 
 [Build Status]:    https://travis-ci.org/KostyaEsmukov/smtp_to_telegram
 [Docker Hub]:      https://hub.docker.com/r/kostyaesmukov/smtp_to_telegram
