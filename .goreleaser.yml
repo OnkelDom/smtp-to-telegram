@@ -12,8 +12,8 @@ checksum:
   name_template: 'checksums.txt'
 dockers:
   - image_templates:
-      - "kostyaesmukov/smtp_to_telegram:{{ .Version }}-amd64"
-      - "kostyaesmukov/smtp_to_telegram:latest-amd64"
+      - "dominiklenhardt/smtp_to_telegram:{{ .Version }}-amd64"
+      - "dominiklenhardt/smtp_to_telegram:latest-amd64"
     binaries:
       - smtp_to_telegram
     dockerfile: Dockerfile
@@ -21,8 +21,8 @@ dockers:
       - "--build-arg"
       - "ARCH=amd64"
   - image_templates:
-      - "kostyaesmukov/smtp_to_telegram:{{ .Version }}-arm64v8"
-      - "kostyaesmukov/smtp_to_telegram:latest-arm64v8"
+      - "dominiklenhardt/smtp_to_telegram:{{ .Version }}-arm64v8"
+      - "dominiklenhardt/smtp_to_telegram:latest-arm64v8"
     binaries:
       - smtp_to_telegram
     goarch: arm64
