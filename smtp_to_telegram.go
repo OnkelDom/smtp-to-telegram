@@ -26,7 +26,7 @@ const (
 
 var (
 	MessageMaxLength = 0
-	version string = "UNKNOWN_RELEASE"
+	version string = "v1.0.1"
 	commit  string
 	date    string
 )
