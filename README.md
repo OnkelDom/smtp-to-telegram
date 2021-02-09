@@ -1,13 +1,13 @@
 # SMTP to Telegram
 
 [![Build Status](https://img.shields.io/travis/OnkelDom/smtp-to-telegram.svg?style=flat-square)][Build Status]
-[![Docker Hub](https://img.shields.io/docker/pulls/dominiklenhardt/smtp-to-telegram.svg?style=flat-square)][Docker Hub]
+[![Docker Hub](https://img.shields.io/docker/pulls/dominiklenhardt/smtp_to_telegram.svg?style=flat-square)][Docker Hub]
 [![Go Report Card](https://goreportcard.com/badge/github.com/OnkelDom/smtp-to-telegram?style=flat-square)][Go Report Card]
 [![License](https://img.shields.io/github/license/OnkelDom/smtp-to-telegram.svg?style=flat-square)][License]
 ![release](https://github.com/OnkelDom/smtp-to-telegram/workflows/release/badge.svg)
 
 [Build Status]:    https://travis-ci.org/OnkelDom/smtp-to-telegram
-[Docker Hub]:      https://hub.docker.com/r/dominiklenhardt/smtp-to-telegram
+[Docker Hub]:      https://hub.docker.com/r/dominiklenhardt/smtp_to_telegram
 [Go Report Card]:  https://goreportcard.com/report/github.com/OnkelDom/smtp-to-telegram
 [License]:         https://github.com/OnkelDom/smtp-to-telegram/blob/master/LICENSE
 
