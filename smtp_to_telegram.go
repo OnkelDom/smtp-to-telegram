@@ -26,9 +26,9 @@ const (
 
 var (
 	MessageMaxLength = 0
-	version string = "v1.0.2"
+	version string = "v1.0.3"
 	commit  string
-	date    string
+	date    string = "30.03.2021"
 )
 
 type SmtpConfig struct {
