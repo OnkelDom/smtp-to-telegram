@@ -1,5 +1,5 @@
 build_tag := dev
-image_name := kostyaesmukov/smtp_to_telegram
+image_name := OnkelDomsmtp-to-telegram
 image_build_tag := $(image_name):$(build_tag)
 image_builder_tag := $(image_name):$(build_tag)_builder
 image_push_tag := $(image_name):latest

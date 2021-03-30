@@ -1,4 +1,4 @@
-module github.com/KostyaEsmukov/smtp_to_telegram
+module github.com/OnkelDom/smtp-to-telegram
 
 go 1.12
 
